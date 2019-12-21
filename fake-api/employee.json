@@ -1,0 +1,18 @@
+{
+    "employees" : [
+        
+        {
+            "name" : "Ersan Aşkın",
+            "department" : "Bilişim",
+            "salary" : 4000,
+            "id" : 1
+        },
+        {
+            "name" : "Ersan Aşkın2",
+            "department" : "Bilişim2",
+            "salary" : 40002,
+            "id" : 2
+        }
+
+    ]
+}
